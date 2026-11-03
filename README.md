@@ -1,7 +1,7 @@
 # ALDI Schedule to Google Calendar
 
 <p align="center">
-  <img src="assets/logo.svg" alt="aldi-schedule-to-google-calendar logo" width="480" />
+  <img src="assets/logo.png" alt="aldi-schedule-to-google-calendar logo" width="480" />
 </p>
 
 <p align="center">
