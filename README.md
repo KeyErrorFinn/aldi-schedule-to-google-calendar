@@ -1,6 +1,10 @@
 # ALDI Schedule to Google Calendar
 
 <p align="center">
+  <img src="assets/logo.svg" alt="aldi-schedule-to-google-calendar logo" width="480" />
+</p>
+
+<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff" />
   <img alt="Tesseract OCR" src="https://img.shields.io/badge/Tesseract%20OCR-4285F4?logo=google&logoColor=fff" />
